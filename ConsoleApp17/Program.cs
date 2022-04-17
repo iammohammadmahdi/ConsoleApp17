@@ -10,7 +10,7 @@ namespace ConsoleApp17
     {
         static void Main(string[] args)
         {
-            co
+            Console.WriteLine();
         }
     }
 }
